@@ -1,0 +1,120 @@
+Uri: https://sites.google.com/view/achron-game-booklet/achron-sdk-main
+File Name: C:\Users\Blackvertigo1 (Chad)\Desktop\AchronSDKRef\sites.google.com\view\achron-game-booklet\achron-sdk-main.html
+Content Type: text/html
+
+Uri: https://lh4.googleusercontent.com/0jK977tWfULiIvwwdue45qjvTK2KTEBjDZz_oXcsyw_g7fS7B7XEy7sOLSM5VWr721o-7BTOXCOORiHVMznGYKs=w16383
+File Name: C:\Users\Blackvertigo1 (Chad)\Desktop\AchronSDKRef\sites.google.com\0jK977tWfULiIvwwdue45qjvTK2KTEBjDZz_oXcsyw_g7fS7B7XEy7sOLSM5VWr721o-7BTOXCOORiHVMznGYKs=w16383.jpeg
+Content Type: image/jpeg
+
+Uri: https://ssl.gstatic.com/atari/images/simple-header-blended-small.png
+File Name: C:\Users\Blackvertigo1 (Chad)\Desktop\AchronSDKRef\sites.google.com\atari\images\simple-header-blended-small.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/atari/images/public/favicon.ico
+File Name: C:\Users\Blackvertigo1 (Chad)\Desktop\AchronSDKRef\sites.google.com\atari\images\public\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://fonts.googleapis.com/css?family=Lato:300%2C300italic%2C400%2C400italic%2C700%2C700italic&display=swap
+File Name: C:\Users\Blackvertigo1 (Chad)\Desktop\AchronSDKRef\sites.google.com\css.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Google+Sans:400,500|Roboto:300,400,500,700|Source+Code+Pro:400,700&display=swap
+File Name: C:\Users\Blackvertigo1 (Chad)\Desktop\AchronSDKRef\sites.google.com\css-1.css
+Content Type: text/css
+
+Uri: https://www.gstatic.com/_/atari/_/ss/k=atari.vw.HH1z3Aoy6D0.L.X.O/d=1/rs=AGEqA5mg548Kd8FIH_DF4jVXbO35DrBx7g
+File Name: C:\Users\Blackvertigo1 (Chad)\Desktop\AchronSDKRef\sites.google.com\_\atari\_\ss\k=atari.vw.HH1z3Aoy6D0.L.X.O\d=1\rs=AGEqA5mg548Kd8FIH_DF4jVXbO35DrBx7g.css
+Content Type: text/css
+
+Uri: https://sites.google.com/view/achron-game-booklet/achron-sdk-main/introduction
+File Name: C:\Users\Blackvertigo1 (Chad)\Desktop\AchronSDKRef\sites.google.com\view\achron-game-booklet\achron-sdk-main\introduction.html
+Content Type: text/html
+
+Uri: https://sites.google.com/view/achron-game-booklet/achron-sdk-main/comments
+File Name: C:\Users\Blackvertigo1 (Chad)\Desktop\AchronSDKRef\sites.google.com\view\achron-game-booklet\achron-sdk-main\comments.html
+Content Type: text/html
+
+Uri: https://sites.google.com/view/achron-game-booklet/achron-sdk-main/predefines-and-variables
+File Name: C:\Users\Blackvertigo1 (Chad)\Desktop\AchronSDKRef\sites.google.com\view\achron-game-booklet\achron-sdk-main\predefines-and-variables.html
+Content Type: text/html
+
+Uri: https://sites.google.com/view/achron-game-booklet/achron-sdk-main/datatypes-and-operators
+File Name: C:\Users\Blackvertigo1 (Chad)\Desktop\AchronSDKRef\sites.google.com\view\achron-game-booklet\achron-sdk-main\datatypes-and-operators.html
+Content Type: text/html
+
+Uri: https://sites.google.com/view/achron-game-booklet/achron-sdk-main/preprocessors
+File Name: C:\Users\Blackvertigo1 (Chad)\Desktop\AchronSDKRef\sites.google.com\view\achron-game-booklet\achron-sdk-main\preprocessors.html
+Content Type: text/html
+
+Uri: https://sites.google.com/view/achron-game-booklet/achron-sdk-main/queries
+File Name: C:\Users\Blackvertigo1 (Chad)\Desktop\AchronSDKRef\sites.google.com\view\achron-game-booklet\achron-sdk-main\queries.html
+Content Type: text/html
+
+Uri: https://sites.google.com/view/achron-game-booklet/achron-sdk-main/preforming-actions
+File Name: C:\Users\Blackvertigo1 (Chad)\Desktop\AchronSDKRef\sites.google.com\view\achron-game-booklet\achron-sdk-main\preforming-actions.html
+Content Type: text/html
+
+Uri: https://sites.google.com/view/achron-game-booklet/achron-sdk-main/unit-attributes
+File Name: C:\Users\Blackvertigo1 (Chad)\Desktop\AchronSDKRef\sites.google.com\view\achron-game-booklet\achron-sdk-main\unit-attributes.html
+Content Type: text/html
+
+Uri: https://sites.google.com/view/achron-game-booklet/achron-sdk-main/object-class
+File Name: C:\Users\Blackvertigo1 (Chad)\Desktop\AchronSDKRef\sites.google.com\view\achron-game-booklet\achron-sdk-main\object-class.html
+Content Type: text/html
+
+Uri: https://sites.google.com/view/achron-game-booklet/achron-sdk-main/example-script
+File Name: C:\Users\Blackvertigo1 (Chad)\Desktop\AchronSDKRef\sites.google.com\view\achron-game-booklet\achron-sdk-main\example-script.html
+Content Type: text/html
+
+Uri: https://apis.google.com/js/client.js?onload=gapiLoaded
+File Name: C:\Users\Blackvertigo1 (Chad)\Desktop\AchronSDKRef\sites.google.com\js\client.js
+Content Type: application/javascript
+
+Uri: https://www.gstatic.com/_/atari/_/js/k=atari.vw.en_US.cV2oIDrQvok.O/d=1/rs=AGEqA5k-uvxD2YBeQjkjrbrCbqET0W1bNw/m=view
+File Name: C:\Users\Blackvertigo1 (Chad)\Desktop\AchronSDKRef\sites.google.com\_\atari\_\js\k=atari.vw.en_US.cV2oIDrQvok.O\d=1\rs=AGEqA5k-uvxD2YBeQjkjrbrCbqET0W1bNw\m=view
+Content Type: text/javascript
+
+Uri: https://lh3.googleusercontent.com/tCeMrDwY5SmlqS-n5kvcbCabmtkLRvWyameh4ZVcTRQeJBz192SO7M96ghJqE42P3BfqV8bHJQWvesKgR8T7tA=w16383
+File Name: C:\Users\Blackvertigo1 (Chad)\Desktop\AchronSDKRef\sites.google.com\tCeMrDwY5SmlqS-n5kvcbCabmtkLRvWyameh4ZVcTRQeJBz192SO7M96ghJqE42P3BfqV8bHJQWvesKgR8T7tA=w16383.jpeg
+Content Type: image/jpeg
+
+Uri: https://lh4.googleusercontent.com/tCtYW0vDox37XPTeNA-_R9pS5cSq6KIjdJEtAQ0o2JJ4TkwTJDn8KTZR7cyI02Eygd-122vPQY11r7dEtykFmX4=w16383
+File Name: C:\Users\Blackvertigo1 (Chad)\Desktop\AchronSDKRef\sites.google.com\tCtYW0vDox37XPTeNA-_R9pS5cSq6KIjdJEtAQ0o2JJ4TkwTJDn8KTZR7cyI02Eygd-122vPQY11r7dEtykFmX4=w16383.jpeg
+Content Type: image/jpeg
+
+Uri: https://lh4.googleusercontent.com/XMrIJclfg0mEyTW2B7B8f9vRYn7etKjiGQdeBctbF3vc0xU6NLnaOjsFdTK3q45pvFBpL6zALFzSMBS70gIJ0vE=w16383
+File Name: C:\Users\Blackvertigo1 (Chad)\Desktop\AchronSDKRef\sites.google.com\XMrIJclfg0mEyTW2B7B8f9vRYn7etKjiGQdeBctbF3vc0xU6NLnaOjsFdTK3q45pvFBpL6zALFzSMBS70gIJ0vE=w16383.jpeg
+Content Type: image/jpeg
+
+Uri: https://lh5.googleusercontent.com/G064TV4gZrAvs3EN-D2bDGaUdO_HxW-WTnQ-gdffRqNCIT4sJWuxW7lToeDos1HEcwFeYNzoLrRozOlPVhk__pw=w16383
+File Name: C:\Users\Blackvertigo1 (Chad)\Desktop\AchronSDKRef\sites.google.com\G064TV4gZrAvs3EN-D2bDGaUdO_HxW-WTnQ-gdffRqNCIT4sJWuxW7lToeDos1HEcwFeYNzoLrRozOlPVhk__pw=w16383.jpeg
+Content Type: image/jpeg
+
+Uri: https://lh4.googleusercontent.com/GaO1Z8-4FVrXidDF9KcJiH2EOT5DiXALh2oPV-LjGpECKUx09q2gOCbxvn46mAv37F7ksoj8QRwLOO7cWUj4LH0=w16383
+File Name: C:\Users\Blackvertigo1 (Chad)\Desktop\AchronSDKRef\sites.google.com\GaO1Z8-4FVrXidDF9KcJiH2EOT5DiXALh2oPV-LjGpECKUx09q2gOCbxvn46mAv37F7ksoj8QRwLOO7cWUj4LH0=w16383.jpeg
+Content Type: image/jpeg
+
+Uri: https://lh6.googleusercontent.com/fLhPTBCXG3oTiVB-TU2QhyPKF7e51SQ7lfCfIyoZgbfGDsEdgoFRLxaZ9q8Z2tpk6pGqRNbNxHqz2UabvJrHJdE=w16383
+File Name: C:\Users\Blackvertigo1 (Chad)\Desktop\AchronSDKRef\sites.google.com\fLhPTBCXG3oTiVB-TU2QhyPKF7e51SQ7lfCfIyoZgbfGDsEdgoFRLxaZ9q8Z2tpk6pGqRNbNxHqz2UabvJrHJdE=w16383.jpeg
+Content Type: image/jpeg
+
+Uri: https://lh5.googleusercontent.com/IkjOBQOAGkEUIxmTiUxH-8E07E4ZojUR26y5oeecFPXgQrEfJpktMsYK-lQX8-nFtcdJC9fKI8S56y9dyqgv69g=w16383
+File Name: C:\Users\Blackvertigo1 (Chad)\Desktop\AchronSDKRef\sites.google.com\IkjOBQOAGkEUIxmTiUxH-8E07E4ZojUR26y5oeecFPXgQrEfJpktMsYK-lQX8-nFtcdJC9fKI8S56y9dyqgv69g=w16383.jpeg
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css?family=Gentium Basic:i%2Cbi%2C700%2C400&display=swap
+File Name: C:\Users\Blackvertigo1 (Chad)\Desktop\AchronSDKRef\sites.google.com\css-2.css
+Content Type: text/css
+
+Uri: https://lh6.googleusercontent.com/9Pax_yDdXr5YPgQGkpRP-DAcJt78NNbnUocj0FSSe5n99jvKvOKa7ht3-EKDIrqP-F7cGY7CMHACOTi-7vJNa4U=w16383
+File Name: C:\Users\Blackvertigo1 (Chad)\Desktop\AchronSDKRef\sites.google.com\9Pax_yDdXr5YPgQGkpRP-DAcJt78NNbnUocj0FSSe5n99jvKvOKa7ht3-EKDIrqP-F7cGY7CMHACOTi-7vJNa4U=w16383.jpeg
+Content Type: image/jpeg
+
+Uri: https://lh4.googleusercontent.com/X6y0G70K0eoLmaN0qTsPg6Oa1UPxViur_5ONXxtFC8eDO0TM6MF_gXDEYucVOfFpqSCF6PixzCAjozJc9yVaEJs=w16383
+File Name: C:\Users\Blackvertigo1 (Chad)\Desktop\AchronSDKRef\sites.google.com\X6y0G70K0eoLmaN0qTsPg6Oa1UPxViur_5ONXxtFC8eDO0TM6MF_gXDEYucVOfFpqSCF6PixzCAjozJc9yVaEJs=w16383.jpeg
+Content Type: image/jpeg
+
+Uri: https://lh3.googleusercontent.com/NVdC2HfHsT0-G2NarBe8j-a0aZ2t8GDyxrX1dCIBde97aBfvryObBRIhiJ5kBc40Dv0x-KtvT0qiId3ZuR7bUIs=w16383
+File Name: C:\Users\Blackvertigo1 (Chad)\Desktop\AchronSDKRef\sites.google.com\NVdC2HfHsT0-G2NarBe8j-a0aZ2t8GDyxrX1dCIBde97aBfvryObBRIhiJ5kBc40Dv0x-KtvT0qiId3ZuR7bUIs=w16383.jpeg
+Content Type: image/jpeg
+
